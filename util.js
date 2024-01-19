@@ -124,7 +124,7 @@ export function loadJSON(path) {
           "cardEffects" : {
               "gold" : -80,
               "frostTokensToEnemy" : 100},
-              "img" : "https://wallpaperaccess.com/full/682647.jpg"
+              "img" : "https://cdn.discordapp.com/attachments/1141902876583665674/1197722907003060324/Screenshot_2024-01-18_6.01.19_PM.png?ex=65bc4d61&is=65a9d861&hm=7f8df06e5ae143bf214c5433fc570acd6f06da2fc74af0ac8039e5467a23accb&"
       },
       {
           "nameOfCard":"OverPowered",
